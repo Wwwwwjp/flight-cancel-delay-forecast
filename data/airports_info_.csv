@@ -1,0 +1,390 @@
+Airport,Count,Latitude,Longitude,Altitude,daylight_saving_offset,standard_offset,Tz database timezone,Country,City
+EWR,1790873,40.69250107,-74.16870117,18,-4,-5,America/New_York,United States,Newark
+PVD,213177,41.732601,-71.420403,55,-4,-5,America/New_York,United States,Providence
+ORD,4206712,41.9786,-87.9048,672,-5,-6,America/Chicago,United States,Chicago
+LFT,61246,30.20529938,-91.98760223,42,-5,-6,America/Chicago,United States,Lafayette
+IAH,2064868,29.9843998,-95.34140015,97,-5,-6,America/Chicago,United States,Houston
+GPT,53731,30.40730095,-89.07009888,28,-5,-6,America/Chicago,United States,Gulfport
+TUL,218452,36.19839859,-95.88809967,677,-5,-6,America/Chicago,United States,Tulsa
+GSP,196172,34.89569855,-82.21890259,964,-4,-5,America/New_York,United States,Greenville
+MOB,71641,30.69120026,-88.24279785,219,-5,-6,America/Chicago,United States,Mobile
+TYS,227062,35.81100082,-83.9940033,981,-4,-5,America/New_York,United States,Knoxville
+HSV,129718,34.6371994,-86.77510071,629,-5,-6,America/Chicago,United States,Huntsville
+LIT,173376,34.72940063,-92.22429657,262,-5,-6,America/Chicago,United States,Little Rock
+CRP,70145,27.77039909,-97.50119781,44,-5,-6,America/Chicago,United States,Corpus Christi
+DSM,207137,41.5340004,-93.6631012,958,-5,-6,America/Chicago,United States,Des Moines
+BTV,121047,44.47190094,-73.15329742,335,-4,-5,America/New_York,United States,Burlington
+ATL,4474978,33.6367,-84.428101,1026,-4,-5,America/New_York,United States,Atlanta
+CRW,53618,38.37310028,-81.59320068,981,-4,-5,America/New_York,United States,Charleston
+LEX,131441,38.03649902,-84.60590363,979,-4,-5,America/New_York,United States,Lexington KY
+BUF,301665,42.94049835,-78.73220062,728,-4,-5,America/New_York,United States,Buffalo
+BNA,1092929,36.12450027,-86.67819977,599,-5,-6,America/Chicago,United States,Nashville
+MSP,1749982,44.882,-93.221802,841,-5,-6,America/Chicago,United States,Minneapolis
+LGA,1894826,40.77719879,-73.87259674,21,-4,-5,America/New_York,United States,New York
+RIC,311015,37.50519943,-77.31970215,167,-4,-5,America/New_York,United States,Richmond
+CLE,559997,41.4117012,-81.84980011,791,-4,-5,America/New_York,United States,Cleveland
+DTW,1871596,42.21239853,-83.35340118,645,-4,-5,America/New_York,United States,Detroit
+HPN,138768,41.06700134,-73.70760345,439,-4,-5,America/New_York,United States,White Plains
+BHM,226250,33.56290054,-86.75350189,650,-5,-6,America/Chicago,United States,Birmingham
+JAN,108272,32.31119919,-90.07589722,346,-5,-6,America/Chicago,United States,Jackson
+SDF,317458,38.1744,-85.736,501,-4,-5,America/New_York,United States,Louisville
+MCO,1863274,28.42939949,-81.30899811,96,-4,-5,America/New_York,United States,Orlando
+CAE,122462,33.93880081,-81.11949921,236,-4,-5,America/New_York,United States,Columbia
+XNA,166936,36.281898,-94.306801,1287,-5,-6,America/Chicago,United States,Bentonville
+PHF,32428,37.13190079,-76.49299622,42,-4,-5,America/New_York,United States,Newport News
+AGS,63491,33.36989975,-81.96450043,144,-4,-5,America/New_York,United States,Bush Field
+LNK,35675,40.85100174,-96.75920105,1219,-5,-6,America/Chicago,United States,Lincoln
+CVG,555955,39.04880142,-84.6678009,896,-4,-5,America/New_York,United States,Cincinnati
+CHS,323168,32.89860153,-80.04049683,46,-4,-5,America/New_York,United States,Charleston
+TLH,75469,30.39649963,-84.35030365,81,-4,-5,America/New_York,United States,Tallahassee
+PIT,557829,40.49150085,-80.23290253,1203,-4,-5,America/New_York,United States,Pittsburgh
+CLT,3044500,35.2140007,-80.94309998,748,-4,-5,America/New_York,United States,Charlotte
+PHL,1594923,39.87189865,-75.2410965,36,-4,-5,America/New_York,United States,Philadelphia
+BDL,319394,41.93889999,-72.68319702,173,-4,-5,America/New_York,United States,Windsor Locks
+SAV,235952,32.12760162,-81.20210266,50,-4,-5,America/New_York,United States,Savannah
+BTR,83289,30.533199,-91.149597,70,-5,-6,America/Chicago,United States,Baton Rouge
+ECP,101567,30.357106,-85.795414,69,-5,-6,America/Chicago,United States,Panama City
+VPS,122656,30.4832,-86.525398,87,-5,-6,America/Chicago,United States,Valparaiso
+STL,844554,38.748697,-90.370003,618,-5,-6,America/Chicago,United States,St. Louis
+GRK,33498,31.06719971,-97.8289032,1015,-5,-6,America/Chicago,United States,Killeen
+EYW,93752,24.55610085,-81.75959778,3,-4,-5,America/New_York,United States,Key West
+MKE,389298,42.94720078,-87.89659882,723,-5,-6,America/Chicago,United States,Milwaukee
+SGF,123401,37.24570084,-93.38860321,1268,-5,-6,America/Chicago,United States,Springfield
+EVV,53037,38.03699875,-87.53240204,418,-5,-6,America/Chicago,United States,Evansville
+MLI,67458,41.44850159,-90.50749969,590,-5,-6,America/Chicago,United States,Moline
+MSN,167546,43.13990021,-89.33750153,887,-5,-6,America/Chicago,United States,Madison
+BMI,35508,40.47710037,-88.91590118,871,-5,-6,America/Chicago,United States,Bloomington
+ABE,68674,40.65209961,-75.44080353,393,-4,-5,America/New_York,United States,Allentown
+BOS,1688293,42.36429977,-71.00520325,20,-4,-5,America/New_York,United States,Boston
+OMA,309073,41.3032,-95.894096,984,-5,-6,America/Chicago,United States,Omaha
+GSO,180225,36.09780121,-79.93730164,925,-4,-5,America/New_York,United States,Greensboro
+MEM,304389,35.04240036,-89.97669983,341,-5,-6,America/Chicago,United States,Memphis
+AZO,33609,42.23490143,-85.55210114,874,-4,-5,America/New_York,United States,Kalamazoo
+TRI,51466,36.475201,-82.407401,1519,-4,-5,America/New_York,United States,BRISTOL
+GNV,54072,29.69009972,-82.27179718,152,-4,-5,America/New_York,United States,Gainesville
+GRR,245003,42.88079834,-85.52279663,794,-4,-5,America/New_York,United States,Grand Rapids
+MYR,184717,33.67969894,-78.92829895,25,-4,-5,America/New_York,United States,Myrtle Beach
+RDU,743770,35.87760162,-78.78749847,435,-4,-5,America/New_York,United States,Raleigh-durham
+ATW,85784,44.2580986,-88.51909637,918,-5,-6,America/Chicago,United States,Appleton
+ROC,204319,43.1189003,-77.67240143,559,-4,-5,America/New_York,United States,Rochester
+AVL,135758,35.43619919,-82.54180145,2165,-4,-5,America/New_York,United States,Asheville
+CHA,103542,35.03530121,-85.20379639,683,-4,-5,America/New_York,United States,Chattanooga
+ORF,293886,36.89459991,-76.20120239,26,-4,-5,America/New_York,United States,Norfolk
+PWM,161431,43.64619827,-70.30930328,76,-4,-5,America/New_York,United States,Portland
+RST,37565,43.90829849,-92.5,1317,-5,-6,America/Chicago,United States,Rochester
+ELM,20660,42.15990067,-76.89160156,954,-4,-5,America/New_York,United States,Elmira
+CMH,541242,39.998001,-82.891899,815,-4,-5,America/New_York,United States,Columbus
+CID,117061,41.88470078,-91.71080017,869,-5,-6,America/Chicago,United States,Cedar Rapids
+MDT,122423,40.19350052,-76.76339722,310,-4,-5,America/New_York,United States,Harrisburg
+SYR,197229,43.11119843,-76.10630035,421,-4,-5,America/New_York,United States,Syracuse
+JAX,381130,30.49410057,-81.68789673,30,-4,-5,America/New_York,United States,Jacksonville
+IAD,1038362,38.94449997,-77.45580292,312,-4,-5,America/New_York,United States,Washington
+RSW,462576,26.53619957,-81.75520325,30,-4,-5,America/New_York,United States,Fort Myers
+TPA,956828,27.97550011,-82.53320313,26,-4,-5,America/New_York,United States,Tampa
+DEN,3627189,39.86169815,-104.6729965,5431,-6,-7,America/Denver,United States,Denver
+ISP,71334,40.79520035,-73.10019684,99,-4,-5,America/New_York,United States,Islip
+LAS,2162963,36.08010101,-115.1520004,2181,-7,-8,America/Los_Angeles,United States,Las Vegas
+AUS,945184,30.19449997,-97.66989899,542,-5,-6,America/Chicago,United States,Austin
+MIA,1221060,25.79319954,-80.29060364,8,-4,-5,America/New_York,United States,Miami
+TTN,29521,40.27669907,-74.81349945,213,-4,-5,America/New_York,United States,Trenton
+SAN,1113725,32.73360062,-117.1900024,17,-7,-8,America/Los_Angeles,United States,San Diego
+DFW,3736806,32.896801,-97.038002,607,-5,-6,America/Chicago,United States,Dallas-Fort Worth
+SLC,1494956,40.78839874,-111.9779968,4227,-6,-7,America/Denver,United States,Salt Lake City
+ABQ,299381,35.040199,-106.609001,5355,-6,-7,America/Denver,United States,Albuquerque
+LAX,2649109,33.94250107,-118.4079971,125,-7,-8,America/Los_Angeles,United States,Los Angeles
+SFO,1809715,37.61899948,-122.375,13,-7,-8,America/Los_Angeles,United States,San Francisco
+PHX,2226114,33.43429947,-112.012001,1135,-7,-7,America/Phoenix,United States,Phoenix
+DCA,1654751,38.8521,-77.037697,15,-4,-5,America/New_York,United States,Washington
+OKC,294728,35.39310074,-97.60070038,1295,-5,-6,America/Chicago,United States,Oklahoma City
+COS,146488,38.805801,-104.700996,6187,-6,-7,America/Denver,United States,Colorado Springs
+ONT,293602,34.05599976,-117.6009979,944,-7,-8,America/Los_Angeles,United States,Ontario
+SEA,2320583,47.449001,-122.308998,433,-7,-8,America/Los_Angeles,United States,Seattle
+MSY,634418,29.99340057,-90.25800323,4,-5,-6,America/Chicago,United States,New Orleans
+SNA,548666,33.67570114,-117.8679962,56,-7,-8,America/Los_Angeles,United States,Santa Ana
+PSP,169078,33.82970047,-116.5070038,477,-7,-8,America/Los_Angeles,United States,Palm Springs
+IND,586590,39.7173,-86.294403,797,-4,-5,America/New_York,United States,Indianapolis
+SJC,698358,37.362598,-121.929001,62,-7,-8,America/Los_Angeles,United States,San Jose
+PDX,907971,45.58869934,-122.5979996,31,-7,-8,America/Los_Angeles,United States,Portland
+MCI,627777,39.2976,-94.713898,1026,-5,-6,America/Chicago,United States,Kansas City
+PBI,324744,26.68320084,-80.09559631,19,-4,-5,America/New_York,United States,West Palm Beach
+SAT,479171,29.53370094,-98.46980286,809,-5,-6,America/Chicago,United States,San Antonio
+SJU,376408,18.43939972,-66.00180054,9,-4,-4,America/Puerto_Rico,Puerto Rico,San Juan
+RNO,271144,39.49909973,-119.7679977,4415,-7,-8,America/Los_Angeles,United States,Reno
+BWI,1220023,39.1754,-76.668297,146,-4,-5,America/New_York,United States,Baltimore
+FLL,1171298,26.072599,-80.152702,9,-4,-5,America/New_York,United States,Fort Lauderdale
+IAG,7277,43.1072998,-78.94619751,589,-4,-5,America/New_York,United States,Niagara Falls
+LBE,11564,40.27590179,-79.40480042,1199,-4,-5,America/New_York,United States,Latrobe
+ACY,40034,39.45759964,-74.57720184,75,-4,-5,America/New_York,United States,Atlantic City
+JFK,1498199,40.63980103,-73.77890015,13,-4,-5,America/New_York,United States,New York
+CAK,66748,40.91609955,-81.44219971,1228,-4,-5,America/New_York,United States,Akron
+DAB,40667,29.179899,-81.058098,34,-4,-5,America/New_York,United States,Daytona Beach
+DAY,160618,39.90240097,-84.2193985,1009,-4,-5,America/New_York,United States,Dayton
+HVN,5431,41.26369858,-72.88680267,12,-4,-5,America/New_York,United States,New Haven
+MHT,109951,42.932598,-71.435699,266,-4,-5,America/New_York,United States,Manchester NH
+OAJ,38331,34.82920074,-77.61209869,94,-4,-5,America/New_York,United States,Jacksonville NC
+MLB,33497,28.10280037,-80.64530182,33,-4,-5,America/New_York,United States,Melbourne
+SRQ,163549,27.39539909,-82.55439758,30,-4,-5,America/New_York,United States,Sarasota
+FAY,45919,34.99119949,-78.88030243,189,-4,-5,America/New_York,United States,Fayetteville
+CHO,86194,38.1385994,-78.45290375,639,-4,-5,America/New_York,United States,Charlottesville VA
+PNS,163472,30.47340012,-87.18659973,121,-5,-6,America/Chicago,United States,Pensacola
+ILM,106650,34.27059937,-77.90260315,32,-4,-5,America/New_York,United States,Wilmington
+ALB,194063,42.74829865,-73.80169678,285,-4,-5,America/New_York,United States,Albany
+FWA,86284,40.97850037,-85.19509888,814,-4,-5,America/New_York,United States,Fort Wayne
+LYH,24067,37.3266983,-79.20040131,938,-4,-5,America/New_York,United States,Lynchburg
+TOL,17123,41.58679962,-83.80780029,683,-4,-5,America/New_York,United States,Toledo
+HDN,29044,40.48120117,-107.2180023,6606,-6,-7,America/Denver,United States,Hayden
+BZN,125997,45.77750015,-111.1529999,4473,-6,-7,America/Denver,United States,Bozeman
+EUG,112044,44.12459946,-123.211998,374,-7,-8,America/Los_Angeles,United States,Eugene
+BOI,326684,43.5644,-116.223,2871,-6,-7,America/Denver,United States,Boise
+GEG,269756,47.61989975,-117.5339966,2376,-7,-8,America/Los_Angeles,United States,Spokane
+TUS,226175,32.11610031,-110.9410019,2643,-7,-7,America/Phoenix,United States,Tucson
+HNL,693315,21.32062,-157.924228,13,-10,-10,Pacific/Honolulu,United States,Honolulu
+LIH,175639,21.97599983,-159.3390045,153,-10,-10,Pacific/Honolulu,United States,Lihue
+KOA,194076,19.738783,-156.045603,47,-10,-10,Pacific/Honolulu,United States,Kona
+OGG,339825,20.8986,-156.429993,54,-10,-10,Pacific/Honolulu,United States,Kahului
+EGE,37325,39.64260101,-106.9179993,6548,-6,-7,America/Denver,United States,Vail
+ITO,78703,19.72139931,-155.0480042,38,-10,-10,Pacific/Honolulu,United States,Hilo
+SMF,668623,38.69540024,-121.5910034,27,-7,-8,America/Los_Angeles,United States,Sacramento
+ANC,258196,61.17440033,-149.9960022,152,-8,-9,America/Anchorage,United States,Anchorage
+GUC,11694,38.53390121,-106.9329987,7680,-6,-7,America/Denver,United States,Gunnison
+MFE,63278,26.17580032,-98.23860168,107,-5,-6,America/Chicago,United States,Mcallen
+BQN,26957,18.49489975,-67.12940216,237,-4,-4,America/Puerto_Rico,Puerto Rico,Aguadilla
+MTJ,38128,38.50979996,-107.8939972,5759,-6,-7,America/Denver,United States,Montrose CO
+BIL,65394,45.80770111,-108.5429993,3652,-6,-7,America/Denver,United States,Billings
+JAC,67294,43.6072998,-110.737999,6451,-6,-7,America/Denver,United States,Jacksn Hole
+GUM,10911,13.48340034,144.7960052,298,10,10,Pacific/Guam,Guam,Agana
+ICT,139569,37.649899,-97.433098,1333,-5,-6,America/Chicago,United States,Wichita
+BUR,356607,34.20069885,-118.3590012,778,-7,-8,America/Los_Angeles,United States,Burbank
+MFR,100619,42.37419891,-122.8730011,1335,-7,-8,America/Los_Angeles,United States,Medford
+SBA,93340,34.42620087,-119.8399963,13,-7,-8,America/Los_Angeles,United States,Santa Barbara
+FAT,149014,36.77619934,-119.7180023,336,-7,-8,America/Los_Angeles,United States,Fresno
+FSD,103932,43.58200073,-96.74189758,1429,-5,-6,America/Chicago,United States,Sioux Falls
+AMA,71078,35.219398,-101.706001,3607,-5,-6,America/Chicago,United States,Amarillo
+DAL,894140,32.847099,-96.851799,487,-5,-6,America/Chicago,United States,Dallas
+ELP,228716,31.80719948,-106.3779984,3959,-6,-7,America/Denver,United States,El Paso
+FNT,48781,42.9654007,-83.74359894,782,-4,-5,America/New_York,United States,Flint
+HOU,708353,29.64539909,-95.27890015,46,-5,-6,America/Chicago,United States,Houston
+HRL,56718,26.22850037,-97.65440369,36,-5,-6,America/Chicago,United States,Harlingen
+LBB,87183,33.663601,-101.822998,3282,-5,-6,America/Chicago,United States,Lubbock
+LGB,195933,33.81769943,-118.1520004,60,-7,-8,America/Los_Angeles,United States,Long Beach
+MAF,118568,31.94249916,-102.2020035,2871,-5,-6,America/Chicago,United States,Midland
+MDW,1026112,41.785999,-87.752403,620,-5,-6,America/Chicago,United States,Chicago
+OAK,595467,37.721298,-122.221001,9,-7,-8,America/Los_Angeles,United States,Oakland
+BRO,33788,25.90679932,-97.42590332,22,-5,-6,America/Chicago,United States,Brownsville
+PIA,61799,40.66419983,-89.69329834,660,-5,-6,America/Chicago,United States,Peoria
+RAP,69289,44.04529953,-103.0569992,3204,-6,-7,America/Denver,United States,Rapid City
+DRO,51398,37.1515007,-107.7539978,6685,-6,-7,America/Denver,United States,Durango
+MRY,52958,36.5870018,-121.8430023,257,-7,-8,America/Los_Angeles,United States,Monterey
+BFL,32452,35.43360138,-119.0569992,510,-7,-8,America/Los_Angeles,United States,Bakersfield
+SBP,64117,35.23680115,-120.6419983,212,-7,-8,America/Los_Angeles,United States,San Luis Obispo
+GRI,12877,40.96749878,-98.30960083,1847,-5,-6,America/Chicago,United States,Grand Island
+MGM,48521,32.30059814,-86.39399719,221,-5,-6,America/Chicago,United States,MONTGOMERY
+STX,14830,17.70190048,-64.79859924,74,-4,-4,America/St_Thomas,Virgin Islands,St. Croix Island
+YKM,11074,46.56819916,-120.5439987,1099,-7,-8,America/Los_Angeles,United States,Yakima
+LWS,13256,46.37450027,-117.0149994,1442,-7,-8,America/Los_Angeles,United States,Lewiston
+EAT,10948,47.39889908,-120.2070007,1249,-7,-8,America/Los_Angeles,United States,Wenatchee
+RDM,104282,44.2541008,-121.1500015,3080,-7,-8,America/Los_Angeles,United States,Redmond-Bend
+PUW,15053,46.7439,-117.110001,2556,-7,-8,America/Los_Angeles,United States,Pullman
+ALW,9624,46.09489822,-118.288002,1194,-7,-8,America/Los_Angeles,United States,Walla Walla
+HLN,25279,46.60680008,-111.9830017,3877,-6,-7,America/Denver,United States,Helena
+FCA,63385,48.3105011,-114.2559967,2977,-6,-7,America/Denver,United States,Kalispell
+MMH,2814,37.62409973,-118.8379974,7135,-7,-8,America/Los_Angeles,United States,Mammoth Lakes
+PSC,79198,46.26470184,-119.1190033,410,-7,-8,America/Los_Angeles,United States,Pasco
+MSO,71213,46.91630173,-114.0910034,3206,-6,-7,America/Denver,United States,Missoula
+GTF,37088,47.48199844,-111.3710022,3680,-6,-7,America/Denver,United States,Great Falls
+SUN,25607,43.50439835,-114.2959976,5318,-6,-7,America/Denver,United States,Hailey
+BLI,39222,48.7928009,-122.538002,170,-7,-8,America/Los_Angeles,United States,Bellingham
+STS,50538,38.50899887,-122.8130035,128,-7,-8,America/Los_Angeles,United States,Santa Rosa
+FAI,61015,64.81510162,-147.8560028,439,-8,-9,America/Anchorage,United States,Fairbanks
+SCC,8460,70.19470215,-148.4649963,65,-8,-9,America/Anchorage,United States,Deadhorse
+DUT,3227,53.90010071,-166.5440063,22,-8,-9,America/Anchorage,United States,Unalaska
+STT,61679,18.33729935,-64.9733963,23,-4,-4,America/St_Thomas,Virgin Islands,St. Thomas
+FAR,87599,46.92070007,-96.81580353,902,-5,-6,America/Chicago,United States,Fargo
+ROA,83416,37.3255,-79.975403,1175,-4,-5,America/New_York,United States,Roanoke VA
+BIS,55892,46.77270126,-100.7460022,1661,-5,-6,America/Chicago,United States,Bismarck
+AVP,50033,41.33850098,-75.7233963,962,-4,-5,America/New_York,United States,Scranton
+GRB,70362,44.48509979,-88.12960052,695,-5,-6,America/Chicago,United States,Green Bay
+PPG,1087,-14.33100033,-170.7100067,32,-11,-11,Pacific/Pago_Pago,American Samoa,Pago Pago
+MKK,6838,21.1529007,-157.095993,454,-10,-10,Pacific/Honolulu,United States,Molokai
+LNY,9873,20.78560066,-156.951004,1308,-10,-10,Pacific/Honolulu,United States,Lanai
+JHM,6206,20.96290016,-156.6730042,256,-10,-10,Pacific/Honolulu,United States,Lahania-kapalua
+ROW,14828,33.30160141,-104.5309982,3671,-6,-7,America/Denver,United States,Roswell
+BGR,66976,44.80739975,-68.82810211,192,-4,-5,America/New_York,United States,Bangor
+PIH,10965,42.90980148,-112.5960007,4452,-6,-7,America/Denver,United States,Pocatello
+ABR,9754,45.44910049,-98.42179871,1302,-5,-6,America/Chicago,United States,Aberdeen
+GJT,56859,39.12239838,-108.5270004,4858,-6,-7,America/Denver,United States,Grand Junction
+APN,7925,45.0780983,-83.56030273,690,-4,-5,America/New_York,United States,Alpena
+ESC,8699,45.72269821,-87.09369659,609,-4,-5,America/New_York,United States,Escanaba
+PLN,11916,45.57089996,-84.79669952,721,-4,-5,America/New_York,United States,Pellston
+BJI,9688,47.50939941,-94.93370056,1391,-5,-6,America/Chicago,United States,Bemidji
+CPR,26958,42.908001,-106.463997,5350,-6,-7,America/Denver,United States,Casper
+BRD,8622,46.39830017,-94.13809967,1232,-5,-6,America/Chicago,United States,Brainerd
+BTM,8857,45.95479965,-112.4970016,5550,-6,-7,America/Denver,United States,Butte
+CDC,8161,37.70100021,-113.098999,5622,-6,-7,America/Denver,United States,Cedar City
+SGU,39169,37.036389,-113.510306,2941,-6,-7,America/Denver,United States,Saint George
+CIU,9411,46.25080109,-84.47239685,800,-4,-5,America/New_York,United States,Sault Ste Marie
+EKO,7056,40.82490158,-115.7919998,5140,-7,-8,America/Los_Angeles,United States,Elko
+COD,12821,44.52019882,-109.0240021,5102,-6,-7,America/Denver,United States,Cody
+HIB,8502,47.38660049,-92.83899689,1354,-5,-6,America/Chicago,United States,Hibbing
+BGM,7912,42.20869827,-75.97979736,1636,-4,-5,America/New_York,United States,Binghamton
+TWF,11569,42.4818,-114.487999,4154,-6,-7,America/Denver,United States,Twin Falls
+MQT,15876,46.35359955,-87.395401,1221,-4,-5,America/New_York,United States,Gwinn
+RHI,10328,45.63119888,-89.46749878,1624,-5,-6,America/Chicago,United States,Rhinelander
+ITH,25369,42.49100113,-76.45839691,1099,-4,-5,America/New_York,United States,Ithaca
+LSE,21990,43.879002,-91.256699,655,-5,-6,America/Chicago,United States,La Crosse
+INL,8357,48.56620026,-93.40309906,1185,-5,-6,America/Chicago,United States,International Falls
+ASE,85876,39.22320175,-106.8690033,7820,-6,-7,America/Denver,United States,Aspen
+FLG,26760,35.13850021,-111.6709976,7014,-7,-7,America/Phoenix,United States,Flagstaff
+YUM,22136,32.65660095,-114.6060028,213,-7,-7,America/Phoenix,United States,Yuma
+TVC,67098,44.74140167,-85.5821991,624,-4,-5,America/New_York,United States,Traverse City
+MEI,10398,32.33259964,-88.75189972,297,-5,-6,America/Chicago,United States,Meridian
+PIB,8753,31.46710014,-89.33709717,298,-5,-6,America/Chicago,United States,Hattiesburg/Laurel
+SAF,32935,35.61709976,-106.0889969,6348,-6,-7,America/Denver,United States,Santa Fe
+IFP,91,35.161944,-114.56,214,-7,-7,America/Phoenix,United States,Bullhead City
+SBN,83938,41.70869827,-86.31729889,799,-4,-5,America/New_York,United States,South Bend
+GTR,12855,33.45029831,-88.59140015,264,-5,-6,America/Chicago,United States,Columbus Mississippi
+LAN,36891,42.77870178,-84.58740234,861,-4,-5,America/New_York,United States,Lansing
+SCE,46479,40.84930038,-77.84870148,1239,-4,-5,America/New_York,United States,State College Pennsylvania
+SWF,18063,41.5041008,-74.10479736,491,-4,-5,America/New_York,United States,Newburgh
+ERI,22243,42.08312701,-80.17386675,732,-4,-5,America/New_York,United States,Erie
+IMT,9380,45.81840134,-88.11450195,1182,-5,-6,America/Chicago,United States,Iron Mountain
+DLH,32902,46.84209824,-92.19360352,1428,-5,-6,America/Chicago,United States,Duluth
+ISN,6876,48.17789841,-103.6419983,1982,-5,-6,America/Chicago,United States,Williston
+IDA,46045,43.514599,-112.070999,4744,-6,-7,America/Denver,United States,Idaho Falls
+MBS,29193,43.53290176,-84.07959747,668,-4,-5,America/New_York,United States,Saginaw
+MOT,33505,48.25939941,-101.2799988,1716,-5,-6,America/Chicago,United States,Minot
+GFK,20758,47.949299,-97.176102,845,-5,-6,America/Chicago,United States,Grand Forks
+MLU,31614,32.51089859,-92.03769684,79,-5,-6,America/Chicago,United States,Monroe
+DHN,13724,31.32130051,-85.44960022,401,-5,-6,America/Chicago,United States,Dothan
+SHV,77080,32.446602,-93.8256,258,-5,-6,America/Chicago,United States,Shreveport
+CMX,9530,47.16839981,-88.4890976,1095,-4,-5,America/New_York,United States,Hancock
+EAU,6731,44.86579895,-91.48429871,913,-5,-6,America/Chicago,United States,Eau Claire
+GCC,9388,44.34889984,-105.5390015,4365,-6,-7,America/Denver,United States,Gillette
+CKB,9391,39.29660034,-80.22810364,1217,-4,-5,America/New_York,United States,Clarksburg
+RKS,7490,41.5942,-109.065001,6764,-6,-7,America/Denver,United States,Rock Springs
+PUB,7454,38.28910065,-104.4970016,4726,-6,-7,America/Denver,United States,Pueblo
+MKG,6522,43.16949844,-86.23819733,629,-4,-5,America/New_York,United States,Muskegon
+CGI,6635,37.22529984,-89.57080078,342,-5,-6,America/Chicago,United States,Cape Girardeau
+UIN,3156,39.94269943,-91.19460297,768,-5,-6,America/Chicago,United States,Quincy
+SPI,17782,39.84410095,-89.67790222,598,-5,-6,America/Chicago,United States,Springfield
+DVL,8591,48.11420059,-98.90879822,1456,-5,-6,America/Chicago,United States,Devils Lake
+JMS,11588,46.92969894,-98.67819977,1500,-5,-6,America/Chicago,United States,Jamestown
+LAR,8245,41.31209946,-105.6750031,7284,-6,-7,America/Denver,United States,Laramie
+HYS,11338,38.84220123,-99.27320099,1999,-5,-6,America/Chicago,United States,Hays
+PAH,8363,37.06079865,-88.77380371,410,-5,-6,America/Chicago,United States,PADUCAH
+ACV,22263,40.978101,-124.109,221,-7,-8,America/Los_Angeles,United States,Arcata CA
+OTH,4673,43.417099,-124.2460022,17,-7,-8,America/Los_Angeles,United States,North Bend
+CWA,32994,44.77759933,-89.66680145,1277,-5,-6,America/Chicago,United States,Wassau
+RDD,17561,40.50899887,-122.2929993,505,-7,-8,America/Los_Angeles,United States,Redding
+COU,29248,38.81809998,-92.21959686,889,-5,-6,America/Chicago,United States,Columbia
+FSM,20269,35.33660126,-94.36740112,469,-5,-6,America/Chicago,United States,Fort Smith
+LRD,30738,27.54380035,-99.46160126,508,-5,-6,America/Chicago,United States,Laredo
+CLL,22566,30.58860016,-96.36380005,320,-5,-6,America/Chicago,United States,College Station
+LCH,24027,30.12610054,-93.22329712,15,-5,-6,America/Chicago,United States,Lake Charles
+AEX,34834,31.32740021,-92.54979706,89,-5,-6,America/Chicago,United States,Alexandria
+HOB,7800,32.6875,-103.2170029,3661,-6,-7,America/Denver,United States,Hobbs
+DBQ,7128,42.40200043,-90.70950317,1077,-5,-6,America/Chicago,United States,Dubuque IA
+ACT,19307,31.61129951,-97.23049927,516,-5,-6,America/Chicago,United States,Waco
+TYR,17094,32.35409927,-95.40239716,544,-5,-6,America/Chicago,United States,Tyler
+MHK,20155,39.14099884,-96.67079926,1057,-5,-6,America/Chicago,United States,Manhattan
+JLN,11143,37.15179825,-94.49829865,981,-5,-6,America/Chicago,United States,Joplin
+CMI,26828,40.03919983,-88.27809906,755,-5,-6,America/Chicago,United States,Champaign
+SJT,19947,31.35770035,-100.4960022,1919,-5,-6,America/Chicago,United States,San Angelo
+LAW,15408,34.56769943,-98.41660309,1110,-5,-6,America/Chicago,United States,Lawton
+SWO,9453,36.16120148,-97.08570099,1000,-5,-6,America/Chicago,United States,Stillwater
+BPT,11015,29.95079994,-94.02069855,15,-5,-6,America/Chicago,United States,Beaumont
+SUX,12176,42.40259933,-96.38439941,1098,-5,-6,America/Chicago,United States,Sioux City
+PBG,11182,44.65090179,-73.4681015,234,-4,-5,America/New_York,United States,Plattsburgh
+DIK,8020,46.79740143,-102.802002,2592,-6,-7,America/Denver,United States,Dickinson
+ADQ,9939,57.75,-152.4940033,78,-8,-9,America/Anchorage,United States,Kodiak
+BET,9670,60.77980042,-161.8379974,126,-8,-9,America/Anchorage,United States,Bethel
+BRW,6544,71.285402,-156.766008,44,-8,-9,America/Anchorage,United States,Barrow
+JNU,58033,58.35499954,-134.576004,21,-8,-9,America/Anchorage,United States,Juneau
+KTN,30578,55.35559845,-131.7140045,89,-8,-9,America/Anchorage,United States,Ketchikan
+YAK,9652,59.50329971,-139.6600037,33,-8,-9,America/Anchorage,United States,Yakutat
+CDV,9652,60.4917984,-145.4779968,54,-8,-9,America/Anchorage,United States,Cordova
+SIT,16812,57.04710007,-135.3619995,21,-8,-9,America/Anchorage,United States,Sitka
+WRG,9664,56.48429871,-132.3699951,49,-8,-9,America/Anchorage,United States,Wrangell
+PSG,9665,56.80170059,-132.9450073,111,-8,-9,America/Anchorage,United States,Petersburg
+OME,8742,64.5121994,-165.4450073,37,-8,-9,America/Anchorage,United States,Nome
+OTZ,8742,66.88469696,-162.598999,14,-8,-9,America/Anchorage,United States,Kotzebue
+ADK,1392,51.87799835,-176.6459961,18,-9,-10,America/Adak,United States,Adak Island
+CSG,17706,32.5163002,-84.93890381,397,-4,-5,America/New_York,United States,Columbus
+BQK,12015,31.25880051,-81.46649933,26,-4,-5,America/New_York,United States,Brunswick
+VLD,12821,30.78249931,-83.27670288,203,-4,-5,America/New_York,United States,Valdosta
+ABY,12204,31.53549957,-84.19450378,197,-4,-5,America/New_York,United States,Albany
+BFF,8493,41.87400055,-103.5960007,3967,-6,-7,America/Denver,United States,Scottsbluff
+PSE,9543,18.00830078,-66.56300354,29,-4,-4,America/Puerto_Rico,Puerto Rico,Ponce
+ORH,16389,42.26729965,-71.8757019,1009,-4,-5,America/New_York,United States,Worcester
+SPS,13336,33.9888,-98.491898,1019,-5,-6,America/Chicago,United States,Wichita Falls
+ABI,25692,32.41130066,-99.68190002,1791,-5,-6,America/Chicago,United States,Abilene
+GGG,10675,32.38399887,-94.71150208,365,-5,-6,America/Chicago,United States,Longview
+GCK,9544,37.92750168,-100.723999,2891,-5,-6,America/Chicago,United States,Garden City
+ALO,8451,42.55709839,-92.40029907,873,-5,-6,America/Chicago,United States,Waterloo
+SPN,6016,15.119,145.729004,215,10,10,Pacific/Saipan,Northern Mariana Islands,Saipan
+ROP,302,14.17430019,145.2429962,607,10,10,Pacific/Saipan,Northern Mariana Islands,Rota
+HTS,17497,38.36669922,-82.55799866,828,-4,-5,America/New_York,United States,Huntington
+PGV,13936,35.6352005,-77.38529968,26,-4,-5,America/New_York,United States,Greenville
+EWN,25070,35.07300186,-77.04290009,18,-4,-5,America/New_York,United States,New Bern
+ART,8990,43.9919014,-76.021698,325,-4,-5,America/New_York,United States,Watertown
+SBY,21252,38.34049988,-75.51029968,52,-4,-5,America/New_York,United States,Salisbury
+IPT,4199,41.2417984,-76.9210968,529,-4,-5,America/New_York,United States,Williamsport
+FLO,12007,34.1853981,-79.72389984,146,-4,-5,America/New_York,United States,Florence
+HHH,29804,32.22439957,-80.69750214,19,-4,-5,America/New_York,United States,Hilton Head Island
+SFB,127847,28.77759933,-81.23750305,55,-4,-5,America/New_York,United States,Sanford
+PIE,102670,27.91020012,-82.68740082,11,-4,-5,America/New_York,United States,St. Petersburg
+BLV,14811,38.5452,-89.835197,459,-5,-6,America/Chicago,United States,Belleville
+HGR,2635,39.707901,-77.72949982,703,-4,-5,America/New_York,United States,Hagerstown
+RFD,9934,42.19540024,-89.09719849,742,-5,-6,America/Chicago,United States,Rockford
+OWB,1087,37.74010086,-87.16680145,407,-5,-6,America/Chicago,United States,Owensboro
+PGD,77157,26.92020035,-81.9905014,26,-4,-5,America/New_York,United States,Punta Gorda
+USA,13737,35.387798,-80.709099,705,-4,-5,America/New_York,United States,Concord
+LCK,14081,39.813801,-82.927803,744,-4,-5,America/New_York,United States,Columbus
+AZA,75194,33.30780029,-111.6549988,1382,-7,-7,America/Phoenix,United States,Mesa
+OGD,919,41.19589996,-112.012001,4473,-6,-7,America/Denver,United States,Ogden
+PVU,15000,40.21920013,-111.7229996,4497,-6,-7,America/Denver,United States,Provo
+YNG,4,41.26070023,-80.67910004,1192,-4,-5,America/New_York,United States,Youngstown
+SCK,9285,37.89419937,-121.237999,33,-7,-8,America/Los_Angeles,United States,Stockton
+SMX,2330,34.89889908,-120.4570007,261,-7,-8,America/Los_Angeles,United States,Santa Maria
+PSM,4665,43.07789993,-70.82330322,100,-4,-5,America/New_York,United States,Portsmouth
+OGS,4422,44.68190002,-75.46549988,297,-4,-5,America/New_York,United States,Ogdensburg
+STC,1824,45.54660034,-94.05989838,1031,-5,-6,America/Chicago,United States,Saint Cloud
+TXK,14286,33.45370102,-93.99099731,390,-5,-6,America/Chicago,United States,Texarkana
+LBF,8591,41.12620163,-100.6839981,2777,-5,-6,America/Chicago,United States,North Platte
+LBL,7983,37.0442009,-100.9599991,2885,-5,-6,America/Chicago,United States,Liberal
+LWB,6033,37.85829926,-80.39949799,2302,-4,-5,America/New_York,United States,Lewisburg
+SHD,6760,38.26380157,-78.89640045,1201,-4,-5,America/New_York,United States,Weyers Cave
+SLN,9949,38.79100037,-97.65219879,1288,-5,-6,America/Chicago,United States,Salina
+CNY,7427,38.75500107,-109.7549973,4557,-6,-7,America/Denver,United States,Moab
+ACK,21718,41.25310135,-70.06020355,47,-4,-5,America/New_York,United States,Nantucket
+WYS,4056,44.68840027,-111.1179962,6649,-6,-7,America/Denver,United States,West Yellowstone
+MVY,11026,41.39310074,-70.61430359,67,-4,-5,America/New_York,United States,Vineyard Haven MA
+HYA,1808,41.66930008,-70.28040314,54,-4,-5,America/New_York,United States,Barnstable
+VEL,6677,40.4408989,-109.5100021,5278,-6,-7,America/Denver,United States,Vernal
+BKG,967,36.532082,-93.200544,1302,-5,-6,America/Chicago,United States,Branson
+GST,1224,58.4253006,-135.7070007,35,-8,-9,America/Anchorage,United States,Gustavus
+AKN,4440,58.67679977,-156.6490021,73,-8,-9,America/Anchorage,United States,King Salmon
+DLG,4280,59.04470062,-158.5050049,81,-8,-9,America/Anchorage,United States,Dillingham
+PQI,7248,46.68899918,-68.0447998,534,-4,-5,America/New_York,United States,Presque Isle
+PRC,8929,34.65449905,-112.4199982,5045,-7,-7,America/Phoenix,United States,Prescott
+EAR,6277,40.726667,-99.009167,650,-5,-6,America/Chicago,United States,Kearney
+CYS,4797,41.15570068,-104.8119965,6159,-6,-7,America/Denver,United States,Cheyenne
+DRT,5632,29.37420082,-100.927002,1002,-5,-6,America/Chicago,United States,Del Rio
+PAE,44553,47.90629959,-122.2819977,606,-7,-8,America/Los_Angeles,United States,Everett
+PIR,3727,44.38270187,-100.2860031,1744,-5,-6,America/Chicago,United States,Pierre
+ATY,3497,44.91400146,-97.15470123,1749,-5,-6,America/Chicago,United States,Watertown
+BFM,409,30.62680054,-88.06809998,26,-5,-6,America/Chicago,United States,Mobile
+XWA,13775,48.259722,-103.750556,604,-5,-6,America/Chicago,United States,Williston
+SHR,5883,44.76919937,-106.9800034,4021,-6,-7,America/Denver,United States,Sheridan
+RIW,4575,43.06420136,-108.4599991,5525,-6,-7,America/Denver,United States,Riverton WY
+DDC,5581,37.76340103,-99.96559906,2594,-5,-6,America/Chicago,United States,Dodge City
+DEC,7410,39.83459854,-88.86569977,682,-5,-6,America/Chicago,United States,Decatur
+CDB,524,55.20610046,-162.7250061,96,-8,-9,America/Anchorage,United States,Cold Bay
+ALS,1982,37.434898,-105.866997,7539,-6,-7,America/Denver,United States,Alamosa
+VCT,4729,28.8526001,-96.91850281,115,-5,-6,America/Chicago,United States,Victoria
+JST,5327,40.31610107,-78.83390045,2284,-4,-5,America/New_York,United States,Johnstown
+ILG,330,39.67869949,-75.60649872,80,-4,-5,America/New_York,United States,Wilmington
+FOD,4174,42.55149841,-94.19259644,1156,-5,-6,America/Chicago,United States,Fort Dodge
+MCW,4176,43.15779877,-93.33129883,1213,-5,-6,America/Chicago,United States,Mason City
+TBN,1262,37.74160004,-92.14070129,1159,-5,-6,America/Chicago,United States,Fort Leonardwood
+BIH,1700,37.37310028,-118.3639984,4124,-7,-8,America/Los_Angeles,United States,Bishop
