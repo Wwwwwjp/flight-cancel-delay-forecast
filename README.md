@@ -22,7 +22,7 @@ Our analysis includes all U.S. domestic flights from **May to August 2024**, cov
 
 - `code/` — all R scripts and code used in the project  
 - `data/` — preprocessed and sample datasets used in modeling  
-- `pdfs/` — documents such as the executive summary and technical report  
+- `docs/` — documents such as the executive summary and technical report  
 
 Due to file size limitations on GitHub, **full datasets are stored on Google Drive**:
 👉 [Access full data here](https://drive.google.com/drive/folders/1aXDaMYt9esGaeYZpWL6yRjgCLvBKvA1F?usp=drive_link)
