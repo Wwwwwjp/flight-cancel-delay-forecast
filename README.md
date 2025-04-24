@@ -20,7 +20,7 @@ Our analysis includes all U.S. domestic flights from **May to August 2024**, cov
 
 ## Folder Structure
 
-- `code/` — all R scripts and code used in the project  
+- `code/` — all scripts and code used in the project  
 - `data/` — preprocessed and sample datasets used in modeling  
 - `docs/` — documents such as the executive summary and technical report  
 
