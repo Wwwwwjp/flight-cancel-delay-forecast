@@ -23,6 +23,7 @@ Our analysis includes all U.S. domestic flights from **May to August 2024**, cov
 - `code/` — all scripts and code used in the project  
 - `data/` — preprocessed and sample datasets used in modeling  
 - `docs/` — documents such as the executive summary and technical report  
+- `shiny-py/` — code files for building the web-based prediction app  
 
 Due to file size limitations on GitHub, **full datasets are stored on Google Drive**:
 👉 [Access full data here](https://drive.google.com/drive/folders/1aXDaMYt9esGaeYZpWL6yRjgCLvBKvA1F?usp=drive_link)
