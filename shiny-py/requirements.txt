@@ -1,0 +1,11 @@
+shiny
+pandas
+joblib
+rsconnect-python
+scikit-learn
+numpy
+requests
+python-dateutil
+meteostat
+category_encoders
+xgboost
