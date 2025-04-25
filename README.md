@@ -1,5 +1,7 @@
 # Flight Delay & Cancellation Predictor
 
+**Live App**: [https://yifanchenfp.shinyapps.io/shiny-py/](https://yifanchenfp.shinyapps.io/shiny-py/)
+
 This project was developed for STAT 628 at the University of Wisconsin–Madison. We use historical flight data and weather data to build predictive models for U.S. domestic flights. The Shiny application allows users to input flight details and receive predictions about:
 
 - Whether their flight will be cancelled  
